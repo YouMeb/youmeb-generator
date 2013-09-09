@@ -1,0 +1,29 @@
+{
+  "name": "youmeb-generator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./lib/generator.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "ejs": "~0.8.4",
+    "mkdirp": "~0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poying/youmeb-generator.git"
+  },
+  "keywords": [
+    "youmeb"
+  ],
+  "author": "Po-Ying Chen <poying.me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poying/youmeb-generator/issues"
+  }
+}
